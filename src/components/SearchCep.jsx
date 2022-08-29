@@ -45,7 +45,7 @@ const SearchCep = () => {
     return (
         <div>
             <div className={styles['container_form']}>
-                <h2>Searh CEP</h2>
+                <h2>Search CEP</h2>
                 <form onSubmit={handleGetCepData}>
                     <input
                         className={styles['input_value_cep']}
