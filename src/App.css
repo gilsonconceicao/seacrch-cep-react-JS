@@ -1,0 +1,7 @@
+.App {text-align: center;}
+
+body {
+  background-image: linear-gradient(to left, darkcyan, #008b8b);
+  background-repeat: no-repeat;
+  height: 96vh;
+}
